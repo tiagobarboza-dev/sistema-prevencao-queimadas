@@ -68,3 +68,13 @@ As informações enviadas incluem:
 ## 📷 Protótipo
 
 Projeto desenvolvido como protótipo acadêmico, integrando conceitos de automação, eletrônica, programação e IoT para uma aplicação de monitoramento ambiental.
+
+## 📷 Imagens do protótipo
+
+### Protótipo físico
+
+![Protótipo físico](prototipo%20ofc.jpeg)
+
+### Modelo e arquitetura do hardware
+
+![Modelo 3D do hardware](Hardware%20Prototipo%20.png)
